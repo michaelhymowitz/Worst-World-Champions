@@ -4,12 +4,12 @@ Despite the large sample size that is the 162-game MLB regular season, randomnes
 This project was to be presented at the 2020 Michigan Sports Analytics Symposium before the event was cancelled due to the coronavirus outbreak.
 
 ### Data Sources
-Sean Lahman Baseball Database: http://www.seanlahman.com/baseball-archive/statistics/
-Retrosheet MLB Game Logs: https://www.retrosheet.org/gamelogs/index.html
-FiveThirtyEight MLB Elo Rankings: https://fivethirtyeight.com/features/the-best-mlb-teams-of-all-time-according-to-elo/
+Sean Lahman Baseball Database: http://www.seanlahman.com/baseball-archive/statistics/<br/>
+Retrosheet MLB Game Logs: https://www.retrosheet.org/gamelogs/index.html<br/>
+FiveThirtyEight MLB Elo Rankings: https://fivethirtyeight.com/features/the-best-mlb-teams-of-all-time-according-to-elo/<br/>
 
 ### Other Sources and Additional Information Pages
-Harvard Sports Analysts Collective study referenced: http://harvardsportsanalysis.org/2013/09/undeserving-champions-examining-variance-in-the-postseason/
-Baseball-Reference Pythagorean Theorem of Baseball page: https://www.baseball-reference.com/bullpen/Pythagorean_Theorem_of_Baseball
-Pythagenpat Wikipedia page: https://en.wikipedia.org/wiki/Pythagenpat
-Pythagorean Expectation Wikipedia page: https://en.wikipedia.org/wiki/Pythagorean_expectation
+Harvard Sports Analysts Collective study referenced: http://harvardsportsanalysis.org/2013/09/undeserving-champions-examining-variance-in-the-postseason/<br/>
+Baseball-Reference Pythagorean Theorem of Baseball page: https://www.baseball-reference.com/bullpen/Pythagorean_Theorem_of_Baseball<br/>
+Pythagenpat Wikipedia page: https://en.wikipedia.org/wiki/Pythagenpat<br/>
+Pythagorean Expectation Wikipedia page: https://en.wikipedia.org/wiki/Pythagorean_expectation<br/>
