@@ -1,7 +1,7 @@
 # Worst-World-Champions
 Despite the large sample size that is the 162-game MLB regular season, randomness plays a significant role in baseball and determining baseball’s yearly champion. According to a 2013 Harvard Sports Analysts Collective’s study, out of the 4 major American sports leagues, the MLB by far produces the “least deserving postseason winner.” The purpose of this project is to rank each of the 114 World Series champions through 2018 using a variety of statistics and metrics to measure the strength of each team: Pythagenpat Win Percentage, FiveThirtyEight’s Composite Elo Rankings, Win Percentage in years surrounding championship season, strength of schedule, and BABIP.
 
-This project was to be presented at the 2020 Michigan Sports Analytics Symposium before the event was cancelled due to the coronavirus outbreak.
+This project was to be presented at the 2020 Michigan Sports Analytics Symposium before the event was cancelled due to the coronavirus.
 
 ### Data Sources
 Sean Lahman Baseball Database: http://www.seanlahman.com/baseball-archive/statistics/<br/>
